@@ -1,5 +1,5 @@
 {
-	"name": "brackets/admin-listing",
+	"name": "watee-dev/admin-listing",
 	"description": "Query-building helper for listing of Eloquent models",
 	"keywords": [
 		"listing",
